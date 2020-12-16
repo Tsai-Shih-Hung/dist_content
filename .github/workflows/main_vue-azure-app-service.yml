@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'vue-azure-app-service'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0b2f3f2b86e84f35b1815569a6690aef }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_516cabec1bb9400e843b98f5f8918761 }}
         package: .
